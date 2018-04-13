@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 8fb526148835d534fb50701da76b6c5e
+timeCreated: 1508525438
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Wand_C_BackButton
+    100004: Wand_C_Base
+    100006: Wand_C_HomeButton
+    100008: Wand_C_TopScreen
+    100010: Wand_C_Touchpad
+    100012: Wand_C_TouchpadScreen
+    100014: Wand_C_Trigger
+    100016: Wand_C_VolumeButton
+    400000: //RootNode
+    400002: Wand_C_BackButton
+    400004: Wand_C_Base
+    400006: Wand_C_HomeButton
+    400008: Wand_C_TopScreen
+    400010: Wand_C_Touchpad
+    400012: Wand_C_TouchpadScreen
+    400014: Wand_C_Trigger
+    400016: Wand_C_VolumeButton
+    2300000: Wand_C_BackButton
+    2300002: Wand_C_Base
+    2300004: Wand_C_HomeButton
+    2300006: Wand_C_TopScreen
+    2300008: Wand_C_Touchpad
+    2300010: Wand_C_TouchpadScreen
+    2300012: Wand_C_Trigger
+    2300014: Wand_C_VolumeButton
+    3300000: Wand_C_BackButton
+    3300002: Wand_C_Base
+    3300004: Wand_C_HomeButton
+    3300006: Wand_C_TopScreen
+    3300008: Wand_C_Touchpad
+    3300010: Wand_C_TouchpadScreen
+    3300012: Wand_C_Trigger
+    3300014: Wand_C_VolumeButton
+    4300000: Wand_C_Trigger
+    4300002: Wand_C_HomeButton
+    4300004: Wand_C_VolumeButton
+    4300006: Wand_C_BackButton
+    4300008: Wand_C_TouchpadScreen
+    4300010: Wand_C_Touchpad
+    4300012: Wand_C_TopScreen
+    4300014: Wand_C_Base
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black_mat
+    second: {fileID: 2100000, guid: 3e67d75c77ed63e459e81894ee5b8608, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DynamicObjectsDefault_mat
+    second: {fileID: 2100000, guid: beb38674c6cdb6e4db95885e080de83b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WandLight_mat
+    second: {fileID: 2100000, guid: a87be28c0f812514b8ec2c0362d9c0b6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

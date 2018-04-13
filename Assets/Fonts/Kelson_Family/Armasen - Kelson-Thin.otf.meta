@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3ebd6a45cf261d045843c0c9303463cb
+timeCreated: 1511898628
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kelson
+  fontNames:
+  - Kelson
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2e220927f7e35eb46865adf0b0bfe930, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,96 @@
+
+newmtl MoveMarker
+Ka  0.6 0.6 0.6
+Kd  0.05098039 0.2 0.07843138
+Ks  0.0 0.0 0.0
+d  1
+Ns  96.0
+Ni  1.0
+illum 1
+
+
+
+
+newmtl lambert1
+Ka  0.6 0.6 0.6
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1
+Ns  96.0
+Ni  1.0
+illum 1
+
+
+
+
+newmtl lambert3
+Ka  0.6 0.6 0.6
+Kd  0.7530121 0.7530121 0.7530121
+Ks  0.0 0.0 0.0
+d  1
+Ns  96.0
+Ni  1.0
+illum 1
+
+
+
+
+newmtl StaticFloor_mat
+Ka  0.6 0.6 0.6
+Kd  1 1 1
+Ks  0.0 0.0 0.0
+d  1
+Ns  96.0
+Ni  1.0
+illum 1
+map_Kd tile_floor.png
+
+
+
+newmtl Black_mat
+Ka  0.6 0.6 0.6
+Kd  0.01626016 0.01626016 0.01626016
+Ks  0.0 0.0 0.0
+d  1
+Ns  96.0
+Ni  1.0
+illum 1
+
+
+
+
+newmtl wallpaper_segment
+Ka  0.6 0.6 0.6
+Kd  1 1 1
+Ks  0.0 0.0 0.0
+d  1
+Ns  96.0
+Ni  1.0
+illum 1
+map_Kd diff_damask.png
+
+
+
+newmtl StaticObjects_mat
+Ka  0.6 0.6 0.6
+Kd  1 1 1
+Ks  0.0 0.0 0.0
+d  1
+Ns  96.0
+Ni  1.0
+illum 1
+
+
+
+
+newmtl goldDoor_mat
+Ka  0.6 0.6 0.6
+Kd  1 1 1
+Ks  0.0 0.0 0.0
+d  1
+Ns  96.0
+Ni  1.0
+illum 1
+map_Kd diff_goldenDoor.png
+
+

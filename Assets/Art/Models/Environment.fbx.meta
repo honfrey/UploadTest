@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 4f000ff3261abfb4eb6fd101a63796df
+timeCreated: 1508794682
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: DM_ValtDoorBars
+    100002: //RootNode
+    100004: Floor
+    100006: Pillar_A
+    100008: PillarCorners
+    100010: ValtDoor
+    100012: VaultRoomWall
+    100014: VaultWall
+    100016: wall_A
+    100018: wall_B
+    100020: wall_C
+    100022: wall_D
+    100024: wall_E
+    100026: wall_F
+    100028: wall_G
+    100030: WallStand
+    400000: DM_ValtDoorBars
+    400002: //RootNode
+    400004: Floor
+    400006: Pillar_A
+    400008: PillarCorners
+    400010: ValtDoor
+    400012: VaultRoomWall
+    400014: VaultWall
+    400016: wall_A
+    400018: wall_B
+    400020: wall_C
+    400022: wall_D
+    400024: wall_E
+    400026: wall_F
+    400028: wall_G
+    400030: WallStand
+    2300000: DM_ValtDoorBars
+    2300002: Floor
+    2300004: Pillar_A
+    2300006: PillarCorners
+    2300008: ValtDoor
+    2300010: VaultRoomWall
+    2300012: VaultWall
+    2300014: wall_A
+    2300016: wall_B
+    2300018: wall_C
+    2300020: wall_D
+    2300022: wall_E
+    2300024: wall_F
+    2300026: wall_G
+    2300028: WallStand
+    3300000: DM_ValtDoorBars
+    3300002: Floor
+    3300004: Pillar_A
+    3300006: PillarCorners
+    3300008: ValtDoor
+    3300010: VaultRoomWall
+    3300012: VaultWall
+    3300014: wall_A
+    3300016: wall_B
+    3300018: wall_C
+    3300020: wall_D
+    3300022: wall_E
+    3300024: wall_F
+    3300026: wall_G
+    3300028: WallStand
+    4300000: ValtDoor
+    4300002: VaultWall
+    4300004: DM_ValtDoorBars
+    4300006: VaultRoomWall
+    4300008: wall_G
+    4300010: wall_F
+    4300012: wall_E
+    4300014: wall_D
+    4300016: wall_C
+    4300018: wall_B
+    4300020: wall_A
+    4300022: Pillar_A
+    4300024: WallStand
+    4300026: PillarCorners
+    4300028: Floor
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
